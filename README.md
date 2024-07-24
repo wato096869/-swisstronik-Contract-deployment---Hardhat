@@ -21,7 +21,7 @@ npm install
 
 ### 3. Set .env File
 
-create .env file in root project
+create .env file in hardhat-deploy-contract folder
 
 ```bash
 PRIVATE_KEY="your private key"
